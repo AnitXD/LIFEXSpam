@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/TheAltron"><img src="https://telegra.ph/file/11430eda9e7cb947f114b.jpg"></a></p>
+<p align="center"><a href="https://t.me/CRAZYxSPAM"><img src="https://telegra.ph/file/11430eda9e7cb947f114b.jpg"></a></p>
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
@@ -13,7 +13,7 @@
 
 - ⚠️ Do not forget to fork this repo. Else error can occur in deployment.
 
-<p align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/ItZxSTaR/TheXSpam"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-cyan?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnitXD/LIFEXSpam"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-cyan?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 ━━━━━━━━━━━━━━━━━━━━━━
 
 # Rᴇǫᴜɪʀᴇᴍᴇɴᴛs
