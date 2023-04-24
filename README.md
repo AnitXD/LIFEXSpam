@@ -1,15 +1,15 @@
-<p align="center"><a href="https://t.me/TheAltron"><img src="https://te.legra.ph/file/7abe179ff252aaabbf2a5.jpg"></a></p>
+<p align="center"><a href="https://t.me/TheAltron"><img src="https://telegra.ph/file/11430eda9e7cb947f114b.jpg"></a></p>
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-# Aʟᴛʀᴏɴ 🖤
+# ⏤͟͟͞͞⛦𓆩𝐂ʀᴀᴢʏ𓆪『🇮🇳』🖤
 ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, 
 
-ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 𝐀𝐋𝐓𝐑𝐎𝐍 🖤](https://t.me/TheAltron)
+ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 ⏤͟͟͞͞⛦𓆩𝐂ʀᴀᴢʏ ꪎ 𝐒ᴘᴀᴍ 𓆪『🇮🇳』 🖤](https://t.me/crazyearthlings)
 
 ━━━━━━━━━━━━━━━━━━━━━━
 # Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ​ 🚀
-ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴀʟᴛʀᴏɴ​
+ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ 𝐂ʀᴀᴢʏ ​
 
 - ⚠️ Do not forget to fork this repo. Else error can occur in deployment.
 
