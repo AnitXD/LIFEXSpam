@@ -295,8 +295,8 @@ RAID = [
 ]
 
 
-THE_ALTS = [5518687442, 5306162870]
-GROUP = [-1001313291319, -1001777776331, -1001859846702, "TheAltron", "AltronChats", "@TheAltron", "@AltronChats"]
+THE_ALTS = 
+GROUP = , -1001859846702, "@crazyXparth", "https://t.me/crazyearthlings", "@crazyXparth", "@crazyXparth"]
 
 
 PORM = [
